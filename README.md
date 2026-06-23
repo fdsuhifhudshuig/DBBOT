@@ -8,4 +8,4 @@ DBBOT产品网站：https://nbkern.com/ai-questions
 多系统连接,支持 ERP、OA、PLM、MES、CRM 等企业系统，实现跨系统数据整合;自然语言交互,用户常语言提问，AI 自动理解业务意图，无需学习复杂查询语法;智能分析,自动进行数据汇总、对比、趋势分析、同比环比等统计操作;安全可控,基于角色的权限管理，确保不同用户只能访问授权范围内的数据,数据源权限
 ,表级权限,行级权限,,字段级权限.
 
-ec1624fe2e32c59ecc5a67d26c537a64.png
+[ec1624fe2e32c59ecc5a67d26c537a64.png](https://raw.githubusercontent.com/fdsuhifhudshuig/DBBOT/refs/heads/main/ec1624fe2e32c59ecc5a67d26c537a64.png)
